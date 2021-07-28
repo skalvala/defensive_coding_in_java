@@ -1,0 +1,6 @@
+.idea/
+# Project exclude paths
+/m3_method_input/target/
+/m4_using_frameworks/target/
+/m5_method_return_values/target/
+/m6_other_def_practices/target/
